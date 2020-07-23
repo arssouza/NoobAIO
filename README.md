@@ -1,6 +1,6 @@
 # NoobAIO
 # AIO for https://ensoulsharp.com/
-# Discord: https://discord.gg/hdA8zbM
+# Make Sure to join our personal Discord: https://discord.gg/hdA8zbM
 
 Supported WIP Champs: 
 
